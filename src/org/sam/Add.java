@@ -15,6 +15,7 @@ public class Add {
 	}
 	private void employeeId(float salary) {
 		System.out.println("employee id is 12345" + salary);
+		sysout("employeee");
 	}
 	public static void main(String[] args) {
 		
